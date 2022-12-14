@@ -1,6 +1,6 @@
 
 <a href="https://github.com/aizad1997">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizad1997&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizad1997&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/aizad1997">
    <img align="top" src="https://github-readme-stats.vercel.app/api?username=aizad1997&theme=radical&show_icons=true" />
